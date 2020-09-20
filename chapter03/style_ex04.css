@@ -1,0 +1,22 @@
+.container {
+    width: 600px;
+    margin: auto;
+}
+main {
+    display: flex;
+    background: gray;
+    padding: 10px;
+}
+nav {
+    border: 1px solid black;
+    width: 600px;
+    margin-right: 20px;
+}
+a {
+    margin-left: 16px;
+}
+footer {
+    margin: auto;
+    background: greenyellow;
+    padding: 10px;
+}
